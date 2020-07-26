@@ -5,7 +5,7 @@ Usage:
 """
 
 import argparse
-
+import torch
 from models.common import *
 from utils import google_utils
 

@@ -19,7 +19,8 @@
 *.avi
 *.data
 *.json
-
+*.txt
+*.xml
 *.cfg
 !cfg/yolov3*.cfg
 
@@ -243,3 +244,6 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+coco/labels/train2017.cache
+coco/labels/val2017.cache
+core.57411
